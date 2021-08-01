@@ -6,7 +6,7 @@
 #define RS PORTD,PORTD2
 #define RW PORTD,PORTD1
 #define EN PORTD,PORTD0
-#define DPORT PORTB
+#define DPORT PORTA
 
 #define DL DL_8
 #define N_LINES TWO_LINE
